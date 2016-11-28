@@ -1,0 +1,4 @@
+C:\Users\user\Documents\GitHub\Uebung_AS\Aufgabe_ueb B\bin\Debug\AngVerwaltung.exe
+C:\Users\user\Documents\GitHub\Uebung_AS\Aufgabe_ueb B\bin\Debug\AngVerwaltung.pdb
+C:\Users\user\Documents\GitHub\Uebung_AS\Aufgabe_ueb B\obj\Debug\AngVerwaltung.exe
+C:\Users\user\Documents\GitHub\Uebung_AS\Aufgabe_ueb B\obj\Debug\AngVerwaltung.pdb
