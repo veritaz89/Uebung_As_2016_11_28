@@ -3,3 +3,8 @@ C:\Users\user\Documents\GitHub\Uebung_AS\Aufgabe_ueb C\bin\Debug\AngVerwaltung.e
 C:\Users\user\Documents\GitHub\Uebung_AS\Aufgabe_ueb C\bin\Debug\AngVerwaltung.pdb
 C:\Users\user\Documents\GitHub\Uebung_AS\Aufgabe_ueb C\obj\Debug\AngVerwaltung.exe
 C:\Users\user\Documents\GitHub\Uebung_AS\Aufgabe_ueb C\obj\Debug\AngVerwaltung.pdb
+C:\Users\user\Documents\GitHub\Uebung_As_2016_11_28\Aufgabe_ueb C\obj\Debug\AngVerwaltung.exe
+C:\Users\user\Documents\GitHub\Uebung_As_2016_11_28\Aufgabe_ueb C\obj\Debug\AngVerwaltung.pdb
+C:\Users\user\Documents\GitHub\Uebung_As_2016_11_28\Aufgabe_ueb C\bin\Debug\AngVerwaltung.exe
+C:\Users\user\Documents\GitHub\Uebung_As_2016_11_28\Aufgabe_ueb C\bin\Debug\AngVerwaltung.pdb
+C:\Users\user\Documents\GitHub\Uebung_As_2016_11_28\Aufgabe_ueb C\obj\Debug\AngVerwaltung.csprojResolveAssemblyReference.cache

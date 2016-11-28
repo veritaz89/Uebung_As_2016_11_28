@@ -10,9 +10,9 @@ namespace AngVerwaltung
       public string Vname{get;set;}
       public double Gehalt{get;set;}
     #region TODO 4
-      public string Vollname(string vname, string name)
+      public string Vollname()
       {
-          return vname + " " + name;
+          return this.Vname + " " + this.Name;
       }
     #endregion
   }

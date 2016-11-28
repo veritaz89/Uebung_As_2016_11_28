@@ -21,7 +21,7 @@ namespace AngVerwaltung
       Console.WriteLine(Alex.Vname + " " + Alex.Name + ": " + Alex.Gehalt);
      #endregion
      #region TODO 5
-      Console.WriteLine(Vivi.Vollname(Vivi.Vname, Vivi.Name));
+      Console.WriteLine(Vivi.Vollname());
      #endregion
       Console.Read();
 		}//Main
